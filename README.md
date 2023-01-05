@@ -2,7 +2,7 @@
 This project is in fulfillment of ANLY-580 Natural Lagunage Processing of MS Data Science & Analytics at Georgetown University in Fall 2022.
 
 ## Introduction
-This project performs sentiment classifications on the financial tweets, trying out different methodologies and architectures, such as Bag-of-Words (BOW) model and fine-tuned BERT model. In addition, we also build a LSTM model to incorporate Reddit sentiments and techinical indicators to predict stock price movement.
+This project performs sentiment classifications on the financial tweets, trying out different methodologies and architectures, such as Bag-of-Words (BOW) model and fine-tuned BERT model. In addition, we also build a LSTM model to incorporate Reddit sentiments and technical indicators to predict stock price movement.
 
 ## Dataset
 The various datasets used for sentiment analysis and price movement prediction are located in [/data](/data).
